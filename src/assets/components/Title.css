@@ -1,0 +1,21 @@
+.header {
+  display: flexbox;
+  font-family: "Readex Pro", sans-serif;
+  margin-left: 20px;
+  padding-top: 1px;
+  
+}
+
+.header p{
+    margin-bottom: 0;
+}
+.header hr {
+  position: absolute;
+  margin-bottom: 0;
+  width: 92px;
+  height: 0px;
+  left: 185px;
+  top: 39px;
+  border: 2px solid #b82323;
+  transform: rotate(180deg);
+}
